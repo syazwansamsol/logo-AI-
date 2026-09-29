@@ -1,0 +1,6 @@
+{
+  "name": "Isu Harta Intelek: Logo Sekolah Dijana AI",
+  "description": "Aplikasi interaktif panduan harta intelek, cap dagangan MyIPO, hak cipta dan penilaian risiko logo sekolah dijana AI bersama chatbot pintar dan carta dinamik oleh Kumpulan 4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
